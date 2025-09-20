@@ -25,7 +25,7 @@ This project is licensed under any LICENSE (specify the type).
 
 🚀 Getting Started
 
-    Clone the repository: https://github.com/sasi12728/CEHv12-Exam-Prep.git
+    Clone the repository: https://github.com/Whitedevil1867/CEHv12-Exam-Prep.git
     Browse the folders to access notes and resources.
     Start your study journey, and good luck with your exam!
 
