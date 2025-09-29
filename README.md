@@ -12,10 +12,6 @@ This repository aims to provide a one-stop resource for anyone studying for the 
 
 
 
-📜 License
-
-This project is licensed under any LICENSE (specify the type).
-
 
 🔗 Resources
 
